@@ -1,1 +1,1 @@
-# Spring-Boot-OAuth-Authentication
+# Spring Boot OAuth2 Authentication
